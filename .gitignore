@@ -1,8 +1,5 @@
-".venv/" 
-"Data/" 
-".ipynb_checkpoints/" 
-"__pycache__/" 
-".DS_Store" 
-".ipynb_checkpoints/" 
-"__pycache__/" 
-".DS_Store" 
+﻿data/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Data/
