@@ -21,6 +21,7 @@ correspond to structures described in the original publication.
 |---|---|
 | `spatial_deconvolution.ipynb` | Full analysis |
 | `figures/` | Figures produced by the notebook |
+| `rankings/` | Gene rankings and tabulated results |
 | `requirements.txt` | Package versions |
 
 ## Data
